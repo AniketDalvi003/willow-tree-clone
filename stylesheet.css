@@ -1,0 +1,279 @@
+@font-face {
+    font-family: Avenirnextltpro Regular; /* Choose a name for your font */
+    src: url('avenir-next-lt-pro/AvenirNextLTPro-Regular.otf') format('opentype'); /* Path to your font file */
+}
+
+@font-face {
+    font-family: Avenirnextltpro-bold; /* Choose a name for your font */
+    src: url('avenir-next-lt-pro/AvenirNextLTPro-Bold.otf') format('opentype'); /* Path to your font file */
+}
+
+@font-face {
+    font-family: Avenirnextltpro Demi; /* Choose a name for your font */
+    src: url('avenir-next-lt-pro/AvenirNextLTPro-Demi.otf') format('opentype'); /* Path to your font file */
+}
+
+/* Resets */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.font {
+    font-family: Avenirnextltpro Regular, sans-serif;
+    color: #222424;
+}
+
+span{
+    color: #1abba9;
+}
+
+
+/* Navbar */
+.img_logo {
+    width: 230px;
+}
+
+.img_logo2{
+    width: 36px;
+}
+
+.img_toggler{
+    width: 36px;
+}
+
+.img_search{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #0b0c0c;
+    background-image: url(https://assets-global.website-files.com/61082de7b224bba038edad53/65413c0543e39c4202ad6fbb_icon-search-48-small-white.svg);
+    background-position: 50%;
+    border-style: none;
+}
+
+.nav-link {
+    color: #222;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.nav-link_2{
+    color: #1abba9;
+}
+
+.nav-item a:hover{
+    color: #1abba9;
+}
+
+.nav-item .nav-link_2:hover{
+    color: #222;
+}
+
+
+/* section- main-1 */
+.main1{
+    background-image: url('images/asset 46.jpeg');
+    background-position: 50%, 100%;
+    background-size: cover;
+    min-height: auto;
+    margin: 76px 0;
+}
+
+.main-text {
+    padding-top: 16%;
+    padding-bottom: 12.5%;
+}
+
+.main-text .col-10 h1{
+    font-family: Avenirnextltpro-bold;
+    font-weight: 700;
+    color: #0b0c0c;
+}
+
+.main-text .col-2 img{   
+    width: 64px;
+}
+
+.main-text .col-10 p{
+    font-size: 1.3rem;
+    padding-top: 1rem;
+}
+
+span.experience{
+    box-shadow: inset 0 -36px 0 rgba(26,187,169,.1);
+}
+
+.services .left_text p{
+    font-family: Avenirnextltpro-bold;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.right_text .small-ico{
+    font-family:  Avenirnextltpro Demi, sans-serif;
+}
+.right_text .small-ico img{
+    width: 24px;
+}
+
+
+/* Section- main2 */
+.main2{
+    font-family: Avenirnextltpro-bold;
+}
+
+
+.album a{
+    color: #222424;
+    text-decoration: none;
+}
+.album .col-sm-6 a:hover{
+    text-decoration: underline;
+}
+
+#bri-icon{
+    width: 132px;
+    max-height: 40px;
+}
+
+.see-all-work button{
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 2rem, 3rem;
+    background-color: #0b0c0c;
+    color: #ffffff;
+}
+.see-all-work button:hover{
+    color: #ffffff;
+    background-color: rgba(11, 12, 12, .86);
+}
+
+
+/* Section- main3 */
+.main3{
+    font-family: Avenirnextltpro Demi;
+    background-color: #0b0c0c;
+    color: #ffffff;
+}
+.revenue_growth{
+    font-family: Avenirnextltpro Demi;
+    letter-spacing: 2px;
+    font-size: 11px;
+}
+.we_deliver_head h2{
+    font-family: Avenirnextltpro-bold;
+    font-size: 3rem;
+}
+.we_deliver_para{
+    font-family: Avenirnextltpro Regular;
+    font-size: 1.5rem;
+}
+
+.line_grey{
+    background-color: #757373;
+    height: 0.1em;
+}
+
+.blank_line{
+    background-color: #222424;
+    width: 8em;
+    height: 0.4em;
+}
+
+.edit_img{
+    width: 200px;
+}
+.explore a{
+    margin-top: 3.8rem;
+    color: #0b0c0c;
+}
+.explore a:hover{
+    color: #0b0c0c;
+} 
+
+/* Section- main4 */
+.client-head{
+    font-family: Avenirnextltpro-bold;
+    color: #0b0c0c;
+    font-weight: 700;
+
+}
+
+.read-more-link a{
+    color: #1abba9;
+    text-decoration: none;
+}
+.read-more-link a:hover{
+    text-decoration: underline;
+}
+
+.card p.card-text1{
+    font-family: Avenirnextltpro demi,sans-serif;
+    color: #757373;
+    font-size: 0.8em;
+    letter-spacing: 2px;
+}
+.card p.card-text{
+    font-size: 0.9em;
+}
+
+
+/* Section- main5 */
+.main5{
+    background-image: linear-gradient(225deg, #1abba9, #6078ea);
+    padding: 100px 0;
+}
+
+
+.lets_talk .col-12 h1{
+    font-size:2.2rem;
+    font-family: Avenirnextltpro-bold;    
+}
+
+.lets_talk .col-sm-6 h1{
+    font-size:3rem;
+    font-family: Avenirnextltpro-bold;
+}
+
+.lets_talk .col-12 p{
+    font-family: Avenirnextltpro Regular;
+}
+
+/* Footer */
+footer{
+    background-color: #0b0c0c;
+    color: #b5b3b3;
+}
+footer .container{
+    padding: 50px 0 35px;
+}
+.weeks img{
+    width: 40%;
+}
+
+.adsump li a{
+    text-decoration: none;
+    color: inherit;
+}
+.adsump li a:hover{
+    text-decoration: underline;
+}
+
+footer .footer-bold{
+    text-decoration: none;
+    font-family: Avenirnextltpro Demi, sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 1.7px;
+}
+footer p{
+    font-size: 13px;
+    width: 85%;
+}
+
+img.last_logo{
+    width: 150px;
+}
+.rect_img img{
+    width: 136px;
+}
