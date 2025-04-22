@@ -29,12 +29,12 @@ To run the project locally:
    
 3. Open index.html in your browser or use Live Server extension in VS Code.
 
-📌 Notes
+## 📌 Notes
 1. This project is for educational and portfolio purposes only.
 2. All content, design, and branding belong to WillowTree.
 3. No commercial use intended.
 
-📫 Contact
+## 📫 Contact
 If you have any questions or want to connect:
 
 Email: aniketdalvi0003@gmail.com
