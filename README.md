@@ -36,5 +36,7 @@ To run the project locally:
 
 📫 Contact
 If you have any questions or want to connect:
+
 Email: aniketdalvi0003@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aniket-dalvi-318913217/
