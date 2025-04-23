@@ -8,6 +8,8 @@ This is a front-end clone of the official [WillowTree Apps](https://www.willowtr
 ## 📁 Features
 - Fully responsive design
 - Modern layout and typography
+- Hover effects and smooth transitions
+- Mobile-friendly design
 
 ## 🛠️ Technologies Used
 - HTML5
